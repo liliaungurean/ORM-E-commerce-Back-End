@@ -13,31 +13,31 @@
 - [License](#license)
 
 ## Installation
-Install the following; 
+In terminal Install the following; 
 
-npm install
+    npm install
 
-npm install mysql2
+    npm install mysql2
 
-npm install sequelize
+    npm install sequelize
 
-npm install dotenv
+    npm install dotenv
 
 ## Usage
 
 Run the following command at the root of your project and answer the prompted questions:
 
-mysql -u root -p
+    mysql -u root -p
 
-    Enter password
+        Enter password
 
-source db/schema.sql
+    source db/schema.sql
 
-quit
+    quit
 
-npm run seed
+    npm run seed
 
-npm start
+    npm start
 
 
 # License
