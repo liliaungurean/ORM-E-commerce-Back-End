@@ -51,7 +51,7 @@ Run the following command at the root of your project and answer the prompted qu
 <br>
 
     quit
-    n
+    
 <br>
 
     npm run seed
